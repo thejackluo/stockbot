@@ -1,0 +1,7 @@
+stock
+market
+price
+money
+finance
+trade
+doge
