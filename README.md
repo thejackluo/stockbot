@@ -1,2 +1,5 @@
-# Stock Bot
-2 people with an ambition to beat the stock market by scrapping data from reddit and twitter and using it to run sentimental analysis!
+# Stock Bot  
+A Stock Bot that utilizes sentimental analysis from data in reddit and twitter to beat the stock market and produce fundamental analysis indicators
+
+# How to use?  
+coming soon
